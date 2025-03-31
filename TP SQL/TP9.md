@@ -122,6 +122,6 @@ WHERE commande_id=1;
 ```
 
 Images montrant le fonctionement du codes
-![alt text](../img/tabbrad.png)
+![alt text](<Capture d'écran 2025-03-31 143440.png>)
 
-![alt text](../img/tabtotal.png)
+![alt text](<Capture d'écran 2025-03-31 143911.png>)
